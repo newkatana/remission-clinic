@@ -1,6 +1,6 @@
 # Remission Clinic สำหรับ Windows
 
-ดาวน์โหลดโปรแกรมได้ที่ **[Releases](https://github.com/newkatana/remission-releases/releases/latest)**: ไฟล์ `remission.exe` ไฟล์เดียว
+ดาวน์โหลดโปรแกรมได้ที่ **[Releases](https://github.com/newkatana/remission-clinic/releases/latest)**: ไฟล์ `remission.exe` ไฟล์เดียว
 
 - Windows 10/11 64 บิต · ไม่ต้องติดตั้ง · ไม่ต้องใช้สิทธิ์ admin
 - วาง `remission.exe` ไว้ในโฟลเดอร์ที่เขียนไฟล์ได้ (เช่น `D:\Remission`) แล้วดับเบิลคลิก
