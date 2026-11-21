@@ -1,2 +1,13 @@
-# remission-releases
-Remission Clinic สำหรับ Windows — ดาวน์โหลดโปรแกรม (remission.exe)
+# Remission Clinic สำหรับ Windows
+
+ดาวน์โหลดโปรแกรมได้ที่ **[Releases](https://github.com/newkatana/remission-releases/releases/latest)**: ไฟล์ `remission.exe` ไฟล์เดียว
+
+- Windows 10/11 64 บิต · ไม่ต้องติดตั้ง · ไม่ต้องใช้สิทธิ์ admin
+- วาง `remission.exe` ไว้ในโฟลเดอร์ที่เขียนไฟล์ได้ (เช่น `D:\Remission`) แล้วดับเบิลคลิก
+- เปิดครั้งแรก โปรแกรมจะสร้าง `remission.ini` และโฟลเดอร์ `data\` ข้าง exe ให้เอง แล้วเปิดหน้าตั้งค่าการเชื่อมต่อ
+- โปรแกรมตรวจหารุ่นใหม่จากหน้านี้เอง (เมนู ช่วยเหลือ → ตรวจหาเวอร์ชันใหม่)
+- ตรวจความถูกต้องของไฟล์: `Get-FileHash remission.exe -Algorithm SHA256` ต้องตรงกับค่า SHA-256 ท้ายข้อความของแต่ละรุ่น
+
+repo นี้มีไว้แจกโปรแกรมเท่านั้น ซอร์สโค้ดไม่อยู่ที่นี่
+
+ผู้พัฒนา: ภก.ภูธิป ศร่างเศร้า
